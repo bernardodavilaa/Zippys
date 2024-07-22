@@ -14,7 +14,7 @@ This Component is for the sticky bottom bar at the end of the page
 ![product-mobile](https://github.com/user-attachments/assets/ec43ec7d-eca2-4ae3-a168-116089eefcdf)
 
 ##Customer Infomation
-This Component is for the Customer Information styles and validating the inputs for the user
+This Component is for the Customer Information styles and validating the inputs for the user. At this part we have two scenarios, because the user can have two dispatch options, Pickup Or Delivery. So In the Pics we have the two Design Options, the delivery one has 2 more inputs, "Delivery Address" and "Delivery Instructions"
 
 #### Desktop:
 ![desktop-ci](https://github.com/user-attachments/assets/ccaf2848-fbe0-4c27-bdb4-c6f5e7c65c7a)
