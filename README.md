@@ -3,7 +3,7 @@ This repository contains some components I built while working on the Zippy's pr
 
 At this website, I used React, nextJs and TalwindCss for the styling. For the Design, Figma.
 
-#Product Quantity Selector
+# Product Quantity Selector
 This Component is for the sticky bottom bar at the end of the page
 
 Desktop:
