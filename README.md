@@ -12,3 +12,13 @@ This Component is for the sticky bottom bar at the end of the page
 #### Mobile:
 ![product-mobile-quantity](https://github.com/user-attachments/assets/f9fa72d6-db70-4410-8ec1-927edbc530e0)
 ![product-mobile](https://github.com/user-attachments/assets/ec43ec7d-eca2-4ae3-a168-116089eefcdf)
+
+##Customer Infomation
+This Component is for the Customer Information styles and validating the inputs for the user
+
+#### Desktop:
+![desktop-ci](https://github.com/user-attachments/assets/ccaf2848-fbe0-4c27-bdb4-c6f5e7c65c7a)
+![desktop-pickup-ci](https://github.com/user-attachments/assets/704150f2-234b-473e-8f22-20a7b0542a45)
+
+#### Mobile:
+![mobile-ci-delivery](https://github.com/user-attachments/assets/7b0fdbc2-a7ea-4a12-ac81-cca39309965b)
